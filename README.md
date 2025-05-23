@@ -36,7 +36,7 @@ This end-to-end healthcare analytics project focuses on uncovering patient admis
 - Inspected and cleaned healthcare dataset (15K+ records)
 - Verified columns: age, gender, billing, condition, hospital, etc.
   
-===
+---
 
 ### 2. SQL (Data Modeling & Analysis)
 - Wrote analytical queries for:
